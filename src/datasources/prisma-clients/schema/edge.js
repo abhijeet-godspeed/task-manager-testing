@@ -141,7 +141,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/home/abhijeet/Projects/work/task-manager/src/datasources/prisma-clients/schema",
+      "value": "/home/abhijeet/Projects/work/big-project-for-testing/task-manager-testing/src/datasources/prisma-clients/schema",
       "fromEnvVar": null
     },
     "config": {
@@ -155,7 +155,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/home/abhijeet/Projects/work/task-manager/src/datasources/schema.prisma",
+    "sourceFilePath": "/home/abhijeet/Projects/work/big-project-for-testing/task-manager-testing/src/datasources/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
